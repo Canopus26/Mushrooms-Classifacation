@@ -1,2 +1,2 @@
 # Mushrooms-Classifacation
-Implemented neural network from scratch to classify if Mushrooms is edible or poisonous.
+Implemented neural network from scratch to classify if Mushrooms are edible or poisonous.
